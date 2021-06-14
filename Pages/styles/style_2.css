@@ -1,0 +1,43 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html {
+  background-color: #a30000;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: left;
+  position: absolute;
+  margin: 10;
+  padding: 5px 2;
+  text-shadow: 3px 3px 1px rgb(255, 255, 255);
+}
+
+h2 {
+  font-size: 20px;
+  text-align: right;
+  position: absolute;
+  margin: 10;
+  padding: 5px 2;
+  text-shadow: 2px 2px 1px rgb(255, 255, 255);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  width: 0px;
+  margin: 0 auto;
+  padding: 0 0px 0px 0px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
