@@ -10,6 +10,7 @@ var ctx = canvas.getContext("2d");
 //          AI difficulty levels
 //          Power-ups
 //          Pause when focus lost
+//          Multiplayer?
 
 
 // Creating controllable rectangle - Remove input delay
